@@ -3,3 +3,4 @@ openpyxl==3.1.5
 Werkzeug==3.0.4
 qrcode[pil]==7.4.2
 reportlab==4.2.5
+gunicorn
